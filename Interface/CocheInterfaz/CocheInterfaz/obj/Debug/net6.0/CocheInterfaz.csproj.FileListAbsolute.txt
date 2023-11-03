@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\bin\Debug\net6.0\CocheInterfaz.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\bin\Debug\net6.0\CocheInterfaz.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\bin\Debug\net6.0\CocheInterfaz.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\bin\Debug\net6.0\CocheInterfaz.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\bin\Debug\net6.0\CocheInterfaz.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\refint\CocheInterfaz.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\CocheInterfaz.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\CocheInterfaz\CocheInterfaz\obj\Debug\net6.0\ref\CocheInterfaz.dll

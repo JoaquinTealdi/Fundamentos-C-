@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\bin\Debug\net6.0\Interfaz.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\refint\Interfaz.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\Interfaz.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Interface\Interfaz\Interfaz\obj\Debug\net6.0\ref\Interfaz.dll

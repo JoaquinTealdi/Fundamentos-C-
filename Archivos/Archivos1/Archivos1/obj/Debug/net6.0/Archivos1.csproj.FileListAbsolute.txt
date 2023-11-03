@@ -1,0 +1,15 @@
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\bin\Debug\net6.0\Archivos1.exe
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\bin\Debug\net6.0\Archivos1.deps.json
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\bin\Debug\net6.0\Archivos1.runtimeconfig.json
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\bin\Debug\net6.0\Archivos1.dll
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\bin\Debug\net6.0\Archivos1.pdb
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.AssemblyInfo.cs
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.dll
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\refint\Archivos1.dll
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.pdb
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\Archivos1.genruntimeconfig.cache
+E:\PROGRAMAS\C#\Fundamentos\Archivos\Archivos1\Archivos1\obj\Debug\net6.0\ref\Archivos1.dll

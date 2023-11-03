@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\bin\Debug\net6.0\sumaNumeros.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\bin\Debug\net6.0\sumaNumeros.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\bin\Debug\net6.0\sumaNumeros.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\bin\Debug\net6.0\sumaNumeros.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\bin\Debug\net6.0\sumaNumeros.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\refint\sumaNumeros.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\sumaNumeros.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Metodos\sumaNumeros\sumaNumeros\obj\Debug\net6.0\ref\sumaNumeros.dll

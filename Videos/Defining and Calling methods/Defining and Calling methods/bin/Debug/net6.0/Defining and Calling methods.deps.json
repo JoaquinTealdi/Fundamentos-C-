@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Defining and Calling methods/1.0.0": {
+        "runtime": {
+          "Defining and Calling methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Defining and Calling methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\bin\Debug\net6.0\Ej4.exe
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\bin\Debug\net6.0\Ej4.deps.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\bin\Debug\net6.0\Ej4.runtimeconfig.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\bin\Debug\net6.0\Ej4.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\bin\Debug\net6.0\Ej4.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.AssemblyInfo.cs
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\refint\Ej4.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\Ej4.genruntimeconfig.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\LINQ\Ej4\Ej4\obj\Debug\net6.0\ref\Ej4.dll

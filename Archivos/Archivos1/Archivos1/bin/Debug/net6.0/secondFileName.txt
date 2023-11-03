@@ -1,0 +1,2 @@
+This was the previous text: hola
+This is the new text: este es el nuevo texto

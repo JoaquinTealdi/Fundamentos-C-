@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\bin\Debug\net6.0\primera clase y metodoToString.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\bin\Debug\net6.0\primera clase y metodoToString.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\bin\Debug\net6.0\primera clase y metodoToString.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\bin\Debug\net6.0\primera clase y metodoToString.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\bin\Debug\net6.0\primera clase y metodoToString.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\refint\primera clase y metodoToString.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\primera clase y metodoToString.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\primera clase y metodoToString\primera clase y metodoToString\obj\Debug\net6.0\ref\primera clase y metodoToString.dll

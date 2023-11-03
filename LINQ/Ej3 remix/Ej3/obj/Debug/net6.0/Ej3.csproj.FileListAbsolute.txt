@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\bin\Debug\net6.0\Ej3.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\bin\Debug\net6.0\Ej3.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\bin\Debug\net6.0\Ej3.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\bin\Debug\net6.0\Ej3.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\bin\Debug\net6.0\Ej3.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\refint\Ej3.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\Ej3.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\LINQ\Ej3\Ej3\obj\Debug\net6.0\ref\Ej3.dll

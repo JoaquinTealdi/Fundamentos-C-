@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\bin\Debug\net6.0\ClasesObjetosyConstructores.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\bin\Debug\net6.0\ClasesObjetosyConstructores.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\bin\Debug\net6.0\ClasesObjetosyConstructores.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\bin\Debug\net6.0\ClasesObjetosyConstructores.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\bin\Debug\net6.0\ClasesObjetosyConstructores.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\refint\ClasesObjetosyConstructores.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ClasesObjetosyConstructores.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\ClasesObjetosyConstructores\ClasesObjetosyConstructores\obj\Debug\net6.0\ref\ClasesObjetosyConstructores.dll

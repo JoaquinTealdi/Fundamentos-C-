@@ -1,0 +1,15 @@
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\bin\Debug\net6.0\understanding Strings.exe
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\bin\Debug\net6.0\understanding Strings.deps.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\bin\Debug\net6.0\understanding Strings.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\bin\Debug\net6.0\understanding Strings.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\bin\Debug\net6.0\understanding Strings.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\refint\understanding Strings.dll
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.pdb
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\understanding Strings.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\c# practica\Fundamentos\Videos\understanding Strings\understanding Strings\obj\Debug\net6.0\ref\understanding Strings.dll
