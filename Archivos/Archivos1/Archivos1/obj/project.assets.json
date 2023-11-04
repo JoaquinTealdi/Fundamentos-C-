@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joaqu\\.nuget\\packages\\": {}
+    "C:\\Users\\joa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROGRAMAS\\C#\\Fundamentos\\Archivos\\Archivos1\\Archivos1\\Archivos1.csproj",
+      "projectUniqueName": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Archivos\\Archivos1\\Archivos1\\Archivos1.csproj",
       "projectName": "Archivos1",
-      "projectPath": "E:\\PROGRAMAS\\C#\\Fundamentos\\Archivos\\Archivos1\\Archivos1\\Archivos1.csproj",
-      "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-      "outputPath": "E:\\PROGRAMAS\\C#\\Fundamentos\\Archivos\\Archivos1\\Archivos1\\obj\\",
+      "projectPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Archivos\\Archivos1\\Archivos1\\Archivos1.csproj",
+      "packagesPath": "C:\\Users\\joa\\.nuget\\packages\\",
+      "outputPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Archivos\\Archivos1\\Archivos1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,7 +12,6 @@ namespace ClasesObjetosyConstructores
         public string Nombre { get; set; }
         public int Cantidad { get; set; }
 
-        //constructor
         public Bebida(string nombre, int cantidad)
         {
             this.Nombre = nombre;   

@@ -10,7 +10,6 @@ internal class Program
         string apellido = Console.ReadLine();
         Console.WriteLine("Ingrese su localidad: ");
         string localidad = Console.ReadLine();
-
         
         Console.WriteLine("resultados: ");    
         string Reversenombre = ReseverseString(nombre);
@@ -45,6 +44,4 @@ internal class Program
         Console.Write(String.Format("{0} - {1} - {2} ", Reversenombre, Reverseapellido, Reverselocalidad));
 
     }
-
-
 }

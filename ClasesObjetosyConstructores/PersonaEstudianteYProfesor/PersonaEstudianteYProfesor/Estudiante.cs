@@ -8,9 +8,6 @@ namespace PersonaEstudianteYProfesor
 {
     internal class Estudiante : Persona
     {
-        
-
-
         public void Saludar() 
         {
             Console.WriteLine("¡Hola! soy un estudiante");
@@ -19,8 +16,6 @@ namespace PersonaEstudianteYProfesor
         public void Estudiar()
         {
            Console.WriteLine("Estoy estudiando");
-        }
-       
-     
+        } 
     }
 }

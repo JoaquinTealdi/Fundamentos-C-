@@ -9,7 +9,7 @@ namespace Generics.models
 {
     public class Cerveza : Bebida, IBebidaAlcoholica
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public string Marca { get; set; }
         public int Alcohol { get; set; }
 

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace primera_clase_y_metodoToString
 {
-    internal class Persona
+    public class Persona
     {
-        private string Nombre { get; set; }
+        public string Nombre { get; set; }
 
         public Persona(string nombre) 
         {
-            this.Nombre = nombre;   
+           Nombre = nombre;   
         }
 
         public void ToString() 

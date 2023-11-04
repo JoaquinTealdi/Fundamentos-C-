@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Dev\\Dotnet\\Fundamentos\\List\\List\\List.csproj": {}
+    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\List\\List\\List.csproj": {}
   },
   "projects": {
-    "K:\\Dev\\Dotnet\\Fundamentos\\List\\List\\List.csproj": {
+    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\List\\List\\List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Dev\\Dotnet\\Fundamentos\\List\\List\\List.csproj",
+        "projectUniqueName": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\List\\List\\List.csproj",
         "projectName": "List",
-        "projectPath": "K:\\Dev\\Dotnet\\Fundamentos\\List\\List\\List.csproj",
+        "projectPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\List\\List\\List.csproj",
         "packagesPath": "C:\\Users\\joa\\.nuget\\packages\\",
-        "outputPath": "K:\\Dev\\Dotnet\\Fundamentos\\List\\List\\obj\\",
+        "outputPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\List\\List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joa\\AppData\\Roaming\\NuGet\\NuGet.Config",

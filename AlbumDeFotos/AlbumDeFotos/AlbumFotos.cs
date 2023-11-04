@@ -10,7 +10,6 @@ namespace AlbumDeFotos
     {
         private int NumPaginas { get; set; }
 
-        //constructor predeterminado
         public AlbumFotos()
         {
             NumPaginas = 16;

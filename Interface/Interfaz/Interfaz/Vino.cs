@@ -6,22 +6,20 @@ using System.Threading.Tasks;
 
 namespace Interfaz
 {
-    internal class Vino : Bebida, IBebidaAlcoholica
+    public class Vino : Bebida, IBebidaAlcoholica
     {
-        //implementar los metodos de la interfaz
-        //metodo1
-        public int alcohol { get; set; }
-        //metodo2
+        public int Alcohol { get; set; }
+        public string Tipo { get; set; }
+
+        public Vino(string tipo, int Cantidad, string Nombre = "Vino") : base(Nombre, Cantidad)
+        {
+            Tipo = tipo;
+        }
+        //metodo de interfaz
         public void MaximoRecomendado()
         {
             Console.WriteLine(this.Nombre);
-            Console.WriteLine("El maximo recomendado son 3 copas \n");
-        }
-
-        public string Tipo { get; set; }
-        public Vino(string tipo, int Cantidad, string Nombre = "Vino") : base(Nombre, Cantidad)
-        {
-            this.Tipo = tipo;
+            Console.WriteLine("El maximo recomendado son 3 copas");
         }
 
         public override string ToString()

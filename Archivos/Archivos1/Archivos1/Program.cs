@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using System.Text;
 
-internal class Program
+public class Program
 {
     private static void Main(string[] args)
     {

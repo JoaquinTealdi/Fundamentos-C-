@@ -19,11 +19,10 @@
                                            orderby d.Nombre
                                            select d.edadYNombre).Skip(1).Take(3).ToList(); 
 
-        //listo los resultados
+
         foreach ( var i in lstNombresOrdenados)
         {
             Console.WriteLine(i);
-
         }
 
 

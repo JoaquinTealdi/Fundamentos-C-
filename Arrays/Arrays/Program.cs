@@ -5,7 +5,6 @@
         string[] nombres = new string[5] { "pedro", "ana", "juan", "maxi", "lola" };
 
 
-
         for (int i = 0; i < nombres.Length; i++)
         {
             Console.WriteLine("El nombre " + (i+1) + " es: " + nombres[i]);

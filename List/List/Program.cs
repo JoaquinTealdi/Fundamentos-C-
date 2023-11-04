@@ -12,9 +12,6 @@ SortedList<int, string> autosOrdenados = new SortedList<int, string>()
     { 2, "chevrolet"}
 };
 
-
-
-
 foreach (var i in autosOrdenados)
 {
     Console.WriteLine("Elementos de la lista: " + i); // output "fiat", "chevrolet", "renault"

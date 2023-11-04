@@ -2,8 +2,6 @@
 {
     private static void Main(string[] args)
     {
-
-
         List<Viajes> listaViajes = new List<Viajes>()
         {
 
@@ -50,25 +48,14 @@
 
             }
             Console.ForegroundColor = ConsoleColor.White;
-
-
         }
-
-
-
-
-
-
-        
     }
 
     class Viajes
     {
-
         public string Descripcion { get; set; }
         public int horaEstimada{ get; set; }
         public Status status{ get; set; }
-
     }
 
     enum Status

@@ -16,18 +16,12 @@
         foreach (var g in arreglosEnteros)
         {
             Console.Write(String.Format("- ")+ g);
-        }
-        
+        }      
 
         Console.WriteLine("\nArreglo ordenado");
         foreach (var e in List)
         {
             Console.Write(String.Format("- ")+ e);
         }
-
-
-
-
-
     }
 }

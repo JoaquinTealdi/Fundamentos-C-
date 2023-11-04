@@ -8,8 +8,6 @@ namespace PersonaEstudianteYProfesor
 {
     internal class Profesor : Persona 
     {
-
-
         public void Saludar()
         {
             Console.WriteLine("¡Hola! soy un profesor");

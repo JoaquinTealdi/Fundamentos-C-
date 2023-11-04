@@ -28,7 +28,6 @@
         
          */
 
-
         Console.WriteLine("Los numeros impares del 0 al 20 son: ");
         foreach (var i in impares)
         {

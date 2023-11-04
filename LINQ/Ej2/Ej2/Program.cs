@@ -15,7 +15,7 @@
 
         var list = from i in alum
                    where i.Nota > 5
-                   orderby i.Nota //solo pongo porque quiero que me arroje ordenados los datos, puede no estar esta linea
+                   orderby i.Nota 
                    select i;
 
 
@@ -23,10 +23,8 @@
         foreach (var d in list)
         {
             Console.WriteLine(d.Imprime());
-        }
-        
+        }   
     }
-
 
     class Alumnos
     {
@@ -43,10 +41,5 @@
         {
             return Nota + " " + Nombre;
         }
-
-
     }
-
-
-
 }

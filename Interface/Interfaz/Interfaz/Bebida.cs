@@ -6,21 +6,20 @@ using System.Threading.Tasks;
 
 namespace Interfaz
 {
-    internal class Bebida
+    public class Bebida
     {
         public string Nombre { get; set; }
         public int Cantidad { get; set; }
 
-        //constructor
-        public Bebida(string Nombre, int Cantidad)
+        public Bebida(string nombre, int cantidad)
         {
-            this.Nombre = Nombre;
-            this.Cantidad = Cantidad;
+            Nombre = nombre;
+            Cantidad = cantidad;
         }
 
-        public void Beber(int CuantoBebio)
+        public void Beber(int cuantoBebio)
         {
-            this.Cantidad -= CuantoBebio;
+           Cantidad -= cuantoBebio;
         }
 
         public override string ToString()

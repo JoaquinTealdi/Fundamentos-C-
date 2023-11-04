@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\Generics\\Generics\\Generics.csproj": {}
+    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Generics\\Generics\\Generics.csproj": {}
   },
   "projects": {
-    "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\Generics\\Generics\\Generics.csproj": {
+    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Generics\\Generics\\Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\Generics\\Generics\\Generics.csproj",
+        "projectUniqueName": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Generics\\Generics\\Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\Generics\\Generics\\Generics.csproj",
-        "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-        "outputPath": "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\Generics\\Generics\\obj\\",
+        "projectPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Generics\\Generics\\Generics.csproj",
+        "packagesPath": "C:\\Users\\joa\\.nuget\\packages\\",
+        "outputPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Generics\\Generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

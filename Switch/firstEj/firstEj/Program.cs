@@ -2,10 +2,8 @@
 {
     private static void Main(string[] args)
     {
-
-
         Console.WriteLine("Elige el medio de transporte para saber su velocidad media: Coche, Tren, Avion, Bicileta");
-        string transporte = Console.ReadLine();A
+        string transporte = Console.ReadLine();
 
         switch (transporte)
         {

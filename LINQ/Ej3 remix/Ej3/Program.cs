@@ -19,14 +19,12 @@
              "30 - Maxi", "44 - Ana", "32 - Diego"
 
         };
-
-
         
         List<string> listaNombres = (from e in personas
                                      orderby e.Nombre
                                      select e.EdadYNombre)
                                      .Union(listaSoloTexto)
-                                     .OrderBy(e=>e) // como la lista que uno es un string, me ordenará por el primer caracter, es decir el numeros
+                                     .OrderBy(e=>e) // como la lista que uno es un string, me ordenará por el primer caracter, es decir el numero
                                      .ToList(); 
         /*
         List<string> listaNombres = (from e in personas
@@ -39,8 +37,6 @@
         esta forma funciona si ambas listas son del mismo tipo, por ej "Persona"
         */
 
-
-
         foreach (var f in listaNombres) 
         {
             Console.WriteLine(f);
@@ -50,8 +46,6 @@
         Console.WriteLine("\nTermina");
         Console.ReadLine();
     }
-
-
 
 
     class Persona
@@ -68,6 +62,4 @@
         }
 
     }
-
-
 }

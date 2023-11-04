@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joaqu\\.nuget\\packages\\": {}
+    "C:\\Users\\joa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\AlbumDeFotos\\AlbumDeFotos\\AlbumDeFotos.csproj",
+      "projectUniqueName": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\AlbumDeFotos\\AlbumDeFotos\\AlbumDeFotos.csproj",
       "projectName": "AlbumDeFotos",
-      "projectPath": "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\AlbumDeFotos\\AlbumDeFotos\\AlbumDeFotos.csproj",
-      "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-      "outputPath": "E:\\PROGRAMAS\\Dotnet\\Fundamentos\\AlbumDeFotos\\AlbumDeFotos\\obj\\",
+      "projectPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\AlbumDeFotos\\AlbumDeFotos\\AlbumDeFotos.csproj",
+      "packagesPath": "C:\\Users\\joa\\.nuget\\packages\\",
+      "outputPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\AlbumDeFotos\\AlbumDeFotos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Interfaz
 {
-    internal interface IBebidaAlcoholica
+    public interface IBebidaAlcoholica
     {
-        public int alcohol { get; set; }
+        public int Alcohol { get; set; }
 
         public void MaximoRecomendado();
     }

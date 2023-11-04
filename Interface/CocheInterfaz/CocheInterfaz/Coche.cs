@@ -8,11 +8,11 @@ namespace CocheInterfaz
 {
     internal class Coche : IVehiculo
     {
-        private int CantGasolina { get; set; }
+        private int CantidadGasolina { get; set; }
 
         public Coche(int gasolina) 
         {
-            CantGasolina = gasolina;
+            CantidadGasolina = gasolina;
         }
 
         public void Conducir()
@@ -22,9 +22,9 @@ namespace CocheInterfaz
 
         public bool Repostar(int cantidad)
         {
-            if (CantGasolina > 0) 
+            if (CantidadGasolina > 0) 
             {
-                CantGasolina += cantidad;
+                CantidadGasolina += cantidad;
                 return true;
             }
             else
@@ -35,9 +35,7 @@ namespace CocheInterfaz
 
         public void GetGasolina() 
         {
-            Console.WriteLine("La cantidad de gasolina del coche es {0}", CantGasolina);        
+            Console.WriteLine("La cantidad de gasolina del coche es {0}", CantidadGasolina);        
         }
-
-
     }
 }
