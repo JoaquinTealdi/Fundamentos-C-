@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj": {}
+    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Conexion_a_BD\\ConexionBD\\ConexionBD.csproj": {}
   },
   "projects": {
-    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj": {
+    "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Conexion_a_BD\\ConexionBD\\ConexionBD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj",
-        "projectName": "ClasesObjetosyConstructores",
-        "projectPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj",
+        "projectUniqueName": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Conexion_a_BD\\ConexionBD\\ConexionBD.csproj",
+        "projectName": "ConexionBD",
+        "projectPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Conexion_a_BD\\ConexionBD\\ConexionBD.csproj",
         "packagesPath": "C:\\Users\\joa\\.nuget\\packages\\",
-        "outputPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\obj\\",
+        "outputPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\Conexion_a_BD\\ConexionBD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Dev\\Dotnet\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj",
+      "projectUniqueName": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj",
       "projectName": "ClasesObjetosyConstructores",
-      "projectPath": "K:\\Dev\\Dotnet\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj",
+      "projectPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\ClasesObjetosyConstructores.csproj",
       "packagesPath": "C:\\Users\\joa\\.nuget\\packages\\",
-      "outputPath": "K:\\Dev\\Dotnet\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\obj\\",
+      "outputPath": "K:\\Dev\\Proyectos en GitHub\\C#\\Fundamentos\\ClasesObjetosyConstructores\\Clases-obj-const\\ClasesObjetosyConstructores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joa\\AppData\\Roaming\\NuGet\\NuGet.Config",
